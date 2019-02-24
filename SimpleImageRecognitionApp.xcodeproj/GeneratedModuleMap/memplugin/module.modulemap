@@ -1,0 +1,4 @@
+module memplugin {
+    umbrella "/Users/kubabialy/Desktop/iOS/Kitura/SimpleImageRecognitionApp/.build/checkouts/omr-agentcore-8095203158062606998/src/memplugin/include"
+    export *
+}

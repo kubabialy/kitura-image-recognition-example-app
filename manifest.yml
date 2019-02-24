@@ -1,0 +1,9 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: SimpleImageRecognitionApp
+  buildpack: swift_buildpack
+  command: "'SimpleImageRecognitionApp'"
+  memory: 128M
+  random-route: true

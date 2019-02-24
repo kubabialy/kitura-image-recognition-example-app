@@ -1,0 +1,3 @@
+.build/							usr/src/SimpleImageRecognitionApp
+terraform/scripts/install.sh	usr/src/SimpleImageRecognitionApp
+terraform/scripts/start.sh		usr/src/SimpleImageRecognitionApp
