@@ -1,1 +1,8 @@
-<p>We pass it just just for testing purposes right now. This will be changed once full from gets implemented{{ test }}</p>
+<!DOCTYPE html>
+<html>
+<body>
+<form action="/upload" method="post" enctype="multipart/form-data">
+<input type="file" name="fileToUpload" id="fileToUpload">
+<input type="submit" value="Upload Image" name="submit">
+</form>
+</body>
